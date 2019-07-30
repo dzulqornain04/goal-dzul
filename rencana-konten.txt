@@ -3,5 +3,7 @@ Rencana kontent
 - bikin javascript
   ^ ES6
   ^ Vue
-- interview
+  ^ angular
+- struktur database
 - vlog
+- Laravel
