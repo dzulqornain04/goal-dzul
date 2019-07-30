@@ -5,3 +5,5 @@ Rencana kontent
   ^ Vue
 - interview
 - vlog
+- belajar laravel
+- phyton
