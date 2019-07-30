@@ -8,3 +8,4 @@ Rencana kontent
 - vlog
 - belajar laravel
 - phyton
+- Laravel
