@@ -3,6 +3,7 @@ Rencana kontent
 - bikin javascript
   ^ ES6
   ^ Vue
+  ^ React
 - interview
 - vlog
 - belajar laravel
