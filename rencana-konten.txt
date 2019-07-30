@@ -3,7 +3,9 @@ Rencana kontent
 - bikin javascript
   ^ ES6
   ^ Vue
-  ^ angular
-- struktur database
+  ^ React
+- interview
 - vlog
+- belajar laravel
+- phyton
 - Laravel
